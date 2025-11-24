@@ -1,10 +1,10 @@
 # hilarioxprt — Data Engineering & Analytics
 
-I build reliable, scalable data solutions that turn complex data into clear business value. My work spans data modeling, analytics, big-data engineering, cloud deployment and software development — combining technical rigor with a practical, outcome-focused approach.
+I build reliable, scalable data solutions that turn complex data into clear business value. My work spans data modeling, analytics, big-data analytics and engineering, cloud deployment and software development — combining technical rigor with a practical, outcome-focused approach.
 
 ## 1. About me
 
-I am specializing in designing and building data systems that support reporting, advanced analytics and production-grade data workflows. My knowledge and skills are applicable in addressing different real-world problems related to modelling and securing data, implementing distributed processing and machine-learning pipelines, cloud solutions, and delivering solutions that drive measurable business outcomes.
+I am specializing in designing and building data systems that support reporting, advanced analytics, data science and production-grade data workflows. My knowledge and skills are applicable in addressing different real-world problems related to modelling and securing data, implementing distributed processing and machine-learning pipelines, cloud solutions, and delivering solutions that drive measurable business outcomes.
 
 ## 2. Skills and knowledge
 
